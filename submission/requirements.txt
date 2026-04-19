@@ -1,0 +1,11 @@
+gymnasium>=1.0
+gymnasium[toy-text]
+minigrid>=3.0
+numpy
+pandas
+matplotlib
+moviepy
+imageio
+imageio-ffmpeg
+jupyter
+nbformat
